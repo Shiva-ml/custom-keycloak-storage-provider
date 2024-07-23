@@ -1,0 +1,6 @@
+com\otp_spi\keycloak\User.class
+com\otp_spi\keycloak\UserService$1.class
+com\otp_spi\keycloak\UserAdapter.class
+com\otp_spi\keycloak\RemoteUserStorageProvider.class
+com\otp_spi\keycloak\RemoteUserStorageProviderFactory.class
+com\otp_spi\keycloak\UserService.class
